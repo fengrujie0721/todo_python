@@ -1,0 +1,4 @@
+================== GET ROUTE ================
+python=GET
+mongo=find()
+js/html=GET
